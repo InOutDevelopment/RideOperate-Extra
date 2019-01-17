@@ -1,0 +1,7 @@
+name: RideOperateExtra
+version: 1
+main: net.inoutdevelopment.rideoperate.extra.Main
+author: InOutDevelopment
+commands:
+  rideopextra:
+    description:
